@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**its-babita/its-babita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Babita Bhatt</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
@@ -22,11 +5,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Go My Go**
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6507382632814137457?bpli=1&pli=1](https://www.blogger.com/blog/posts/6507382632814137457?bpli=1&pli=1)
+- 📝 I regularly write articles on [https://codewthmee.blogspot.com/](https://codewthmee.blogspot.com/)
 
 - 📫 How to reach me **bbhatta2055@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1u4hVEDs4GT9KdMdmfkp53-OR9yNmJ4dpztfqFoXfSNs/edit#heading=h.5x0d5h95i329](https://docs.google.com/document/d/1u4hVEDs4GT9KdMdmfkp53-OR9yNmJ4dpztfqFoXfSNs/edit#heading=h.5x0d5h95i329)
 
 - ⚡ Fun fact **I thin I'm funny...**
 
