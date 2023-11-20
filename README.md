@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **bbhatta2055@gmail.com**
 
-- ⚡ Fun fact **I thin I'm funny...**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
